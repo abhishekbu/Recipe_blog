@@ -76,4 +76,4 @@ $ npm watch:sass
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/abhishekbu)
+- GitHub [@abhishekbu](https://github.com/abhishekbu)
